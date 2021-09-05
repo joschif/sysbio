@@ -1,0 +1,26 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: SysBio Retreat
+theme: PaperMod
+
+params:
+    defaultTheme: auto
+    profileMode:
+        enabled: true
+        title: "<SysBio Retreat>" # optional default will be site title
+        subtitle: "Systems Biology PhD retreat"
+        imageUrl: images/kandersteg.jpg # optional
+        imageTitle: cool image # optional
+        imageWidth: 200 # custom size
+        imageHeight: 200 # custom size
+        buttons:
+            - name: Program
+              url: "/program"
+            - name: Speakers
+              url: "/speakers"
+
+    socialIcons: # optional
+        - name: twitter
+          url: https://twitter.com/eth_dbiol?lang=en
+        - name: website
+          url: https://systemsbiology-phd.ethz.ch/
