@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://sysbio.netlify.app/
 languageCode: en-us
 title: SysBio Retreat
 theme: PaperMod
@@ -7,7 +7,7 @@ params:
     defaultTheme: auto
     profileMode:
         enabled: true
-        title: "<SysBio Retreat>" # optional default will be site title
+        title: "SysBio Retreat" # optional default will be site title
         subtitle: "Systems Biology PhD retreat"
         imageUrl: images/kandersteg.jpg # optional
         imageTitle: cool image # optional
