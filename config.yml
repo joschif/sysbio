@@ -10,12 +10,12 @@ params:
         title: "SysBio Retreat" # optional default will be site title
         subtitle: "Systems Biology PhD retreat"
         imageUrl: images/kandersteg.jpg # optional
-        imageTitle: cool image # optional
+        imageTitle: View of Kandersteg # optional
         imageWidth: 200 # custom size
         imageHeight: 200 # custom size
         buttons:
             - name: Program
-              url: "/program"
+              url: "/program"  # relative to the contents/ folder
             - name: Speakers
               url: "/speakers"
 

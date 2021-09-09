@@ -1,0 +1,3 @@
+- Install hugo
+- Run git submodule init && git submodule update
+- To host locally run hugo server
