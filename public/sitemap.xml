@@ -2,12 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://sysbio.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://example.org/program/</loc>
+    <loc>https://sysbio.netlify.app/speakers/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://sysbio.netlify.app/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://sysbio.netlify.app/program/</loc>
+  </url><url>
+    <loc>https://sysbio.netlify.app/tags/</loc>
   </url>
 </urlset>

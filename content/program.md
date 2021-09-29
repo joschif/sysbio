@@ -1,6 +1,6 @@
 ---
 title: "SysBio Retreat 2021 - Schedule"
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
@@ -17,39 +17,39 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ---
 
-Wednesday (6th October) <br />
+Wednesday (6th October) 
 -----------------------
-08:30-10:45  Train from Basel/Zürich <br />
-10:45-12:00  Arrival and Check-in <br />
-12:00-13:30  Lunch <br />
-13:30-14:30  Intro & Games <br />
-14:30-15:00  Coffee Break <br />
-15:00-18:00  Data Visualization Workshop (Darjan Hil) <br />
-18:00-19:30  Posters and Beers <br />
-19:30-21:00  Dinner + free time <br />
-21:00-23:30  Social Activity Night <br />
+08:30-10:45  Train from Basel/Zürich  
+10:45-12:00  Arrival and Check-in  
+12:00-13:30  Lunch  
+13:30-14:30  Intro & Games  
+14:30-15:00  Coffee Break  
+15:00-18:00  Data Visualization Workshop (Darjan Hil)  
+18:00-19:30  Posters and Beers  
+19:30-21:00  Dinner + free time  
+21:00-23:30  Social Activity Night  
 
-Thursday (7th October) <br />
+Thursday (7th October)  
 ----------------------
-08:00-09:30  Breakfast <br />
-09:30-14:00  Social Day Activity (Hike/Via Ferrata/Rodelbahn) - packed lunch included <br />
-14:00-14:30  Coffee Break <br />
-14:30-15:30  Publishing talk: Holger Breithaupt <br />
-15:30-16:30  Academic talk 1: Gioele La Manno <br />
-16:30-17:00  Coffee Break <br />
-17:00-18:00  Academic Talk 2: Barbara di Ventura <br />
-18:00-19:30  Career round table <br />
-19:30-21:00  Dinner + free time <br />
-21:00-23:30  Free-choice Social Activity Night <br />
+08:00-09:30  Breakfast  
+09:30-14:00  Social Day Activity (Hike/Via Ferrata/Rodelbahn) - packed lunch included  
+14:00-14:30  Coffee Break  
+14:30-15:30  Publishing talk: Holger Breithaupt  
+15:30-16:30  Academic talk 1: Gioele La Manno  
+16:30-17:00  Coffee Break  
+17:00-18:00  Academic Talk 2: Barbara Di Ventura  
+18:00-19:30  Career round table  
+19:30-21:00  Dinner + free time  
+21:00-23:30  Free-choice Social Activity Night  
 
-Friday (8th October) <br />
+Friday (8th October)  
 --------------------
-07:30-09:00  Breakfast - Room Check-out <br />
-09:00-12:00  Scientific Data Visualization Workshop (Frederic Schutz) <br />
-12:00-13:00  Lunch <br />
-13:00-14:00  Start-Up talk: DeepCDR <br />
-14:00-15:00  Closing ceremony & poster awards <br />
-15:00-17:30  Train back to Basel/Zürich <br />
+07:30-09:00  Breakfast - Room Check-out  
+09:00-12:00  Scientific Data Visualization Workshop (Frederic Schütz)  
+12:00-13:00  Lunch  
+13:00-14:00  Start-Up talk: DeepCDR  
+14:00-15:00  Closing ceremony & poster awards  
+15:00-17:30  Train back to Basel/Zürich  
 
-![SysBio Retreat 2021 Schedule](sysbio/docs/assets/SysBio2021_Program.png)
+![SysBio Retreat 2021 Schedule](images/SysBio2021_Program.png)
 
