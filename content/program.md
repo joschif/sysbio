@@ -17,7 +17,8 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ---
 
-Wednesday (6th October) 
+## Wednesday  
+### 6th October 
 -----------------------
 08:30-10:45  Train from Basel/Zürich  
 10:45-12:00  Arrival and Check-in  
@@ -29,10 +30,11 @@ Wednesday (6th October)
 19:30-21:00  Dinner + free time  
 21:00-23:30  Social Activity Night  
 
-Thursday (7th October)  
+## Thursday
+### 7th October
 ----------------------
 08:00-09:30  Breakfast  
-09:30-14:00  Social Day Activity (Hike/Via Ferrata/Rodelbahn) - packed lunch included  
+09:30-14:00  Social Day Activity (Hike/Via Ferrata/Rodelbahn)  
 14:00-14:30  Coffee Break  
 14:30-15:30  Publishing talk: Holger Breithaupt  
 15:30-16:30  Academic talk 1: Gioele La Manno  
@@ -42,7 +44,8 @@ Thursday (7th October)
 19:30-21:00  Dinner + free time  
 21:00-23:30  Free-choice Social Activity Night  
 
-Friday (8th October)  
+## Friday
+### 8th October
 --------------------
 07:30-09:00  Breakfast - Room Check-out  
 09:00-12:00  Scientific Data Visualization Workshop (Frederic Schütz)  
