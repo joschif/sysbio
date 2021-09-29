@@ -33,6 +33,7 @@ Wednesday (6th October) <br />
 21:00-23:30  Social Activity Night <br />
 
 Thursday (7th October) <br />
+----------------------
 08:00-09:30  Breakfast <br />
 09:30-14:00  Social Day Activity (Hike/Via Ferrata/Rodelbahn) - packed lunch included <br />
 14:00-14:30  Coffee Break <br />
@@ -53,6 +54,7 @@ Friday (8th October) <br />
 14:00-15:00  Closing ceremony & poster awards <br />
 15:00-17:30  Train back to Basel/Zürich <br />
 
-![Screenshot 2021-09-29 at 14 19 47](https://user-images.githubusercontent.com/50550984/135267102-16e9ed87-9771-4595-8d6e-6c22fcfbea42.png)
 
+
+<img width="498" alt="Screenshot 2021-09-29 at 14 25 45" src="https://user-images.githubusercontent.com/50550984/135267946-03c0a645-8e0a-4c91-b596-671828173155.png">
 
