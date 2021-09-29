@@ -51,7 +51,5 @@ Friday (8th October) <br />
 14:00-15:00  Closing ceremony & poster awards <br />
 15:00-17:30  Train back to Basel/Zürich <br />
 
-
-
-<img width="498" alt="Screenshot 2021-09-29 at 14 25 45" src="https://user-images.githubusercontent.com/50550984/135267946-03c0a645-8e0a-4c91-b596-671828173155.png">
+![SysBio Retreat 2021 Schedule](sysbio/docs/assets/SysBio2021_Program.png)
 
