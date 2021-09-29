@@ -17,4 +17,5 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ---
 
-Here's the program of the retreat
+
+![Schedule of SysBio Retreat 2021](/least-github-pages/assets/SysBio-2021_schedule.png)
