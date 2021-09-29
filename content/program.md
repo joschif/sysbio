@@ -51,3 +51,6 @@ Friday (8th October)
 14:00-15:00  Closing ceremony & poster awards
 15:00-17:30  Train back to Basel/Zürich
 
+![Screenshot 2021-09-29 at 14 19 47](https://user-images.githubusercontent.com/50550984/135267102-16e9ed87-9771-4595-8d6e-6c22fcfbea42.png)
+
+
