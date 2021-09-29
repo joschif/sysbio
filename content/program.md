@@ -18,4 +18,4 @@ ShowPostNavLinks: true
 ---
 
 
-![Schedule of SysBio Retreat 2021](/least-github-pages/assets/SysBio-2021_schedule.png)
+![Schedule of SysBio Retreat 2021](/sysbio/docs/assets/SysBio-2021_schedule.png)
