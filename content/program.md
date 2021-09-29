@@ -20,16 +20,16 @@ ShowPostNavLinks: true
 
 ![Schedule of SysBio Retreat 2021](/sysbio/docs/assets/SysBio-2021_schedule.png)
 
-Wednesday (6th October)
-08:30-10:45  Train from Basel/Zürich
-10:45-12:00  Arrival and Check-in
-12:00-13:30  Lunch
-13:30-14:30  Intro & Games
-14:30-15:00  Coffee Break
-15:00-18:00  Data Visualization Workshop (Darjan Hil)
-18:00-19:30  Posters and Beers
-19:30-21:00  Dinner + free time
-21:00-23:30  Social Activity Night
+Wednesday (6th October) <br />
+08:30-10:45  Train from Basel/Zürich <br />
+10:45-12:00  Arrival and Check-in <br />
+12:00-13:30  Lunch <br />
+13:30-14:30  Intro & Games <br />
+14:30-15:00  Coffee Break <br />
+15:00-18:00  Data Visualization Workshop (Darjan Hil) <br />
+18:00-19:30  Posters and Beers <br />
+19:30-21:00  Dinner + free time <br />
+21:00-23:30  Social Activity Night <br />
 
 Thursday (7th October)
 08:00-09:30  Breakfast
