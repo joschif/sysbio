@@ -1,5 +1,5 @@
 ---
-title: "Retreat Program"
+title: "SysBio Retreat 2021 - Schedule"
 showToc: true
 TocOpen: false
 draft: false
@@ -16,9 +16,6 @@ ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ---
-
-
-![Schedule of SysBio Retreat 2021](/sysbio/docs/assets/SysBio-2021_schedule.png)
 
 Wednesday (6th October) <br />
 -----------------------
