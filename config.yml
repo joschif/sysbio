@@ -19,8 +19,8 @@ params:
             - name: Speakers
               url: "/speakers"
 
-    socialIcons: # optional
-        - name: twitter
-          url: https://twitter.com/eth_dbiol?lang=en
-        - name: website
-          url: https://systemsbiology-phd.ethz.ch/
+    # socialIcons: # optional
+    #     - name: twitter
+    #       url: https://twitter.com/eth_dbiol?lang=en
+    #     - name: website
+    #       url: https://systemsbiology-phd.ethz.ch/
