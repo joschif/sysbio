@@ -1,5 +1,5 @@
 ---
-title: "SysBio Retreat 2021 - Schedule"
+title: "Schedule"
 showToc: false
 TocOpen: false
 draft: false
