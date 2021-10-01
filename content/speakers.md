@@ -72,7 +72,7 @@ Barbara is a Professor at the Centre for Biological Signalling Studies at the Un
 ![Frédéric Schütz](images/frederic.jpg#speaker)
 *Swiss Institute of Bioinformatics (SIB)* &nbsp; [[Homepage]](https://www.sib.swiss/frederic-schuetz-group)
 
-Frédéric leads the Bioinformatics platform of the Faculty of Biology and Medicine at the University of Lausanne. The platform offers help with questions related to biostatistics and analysis of various types of biological data.
+Frédéric leads the Statistics platform of the Faculty of Biology and Medicine at the University of Lausanne. The platform offers help with questions related to biostatistics and analysis of various types of biological data.
 
 ---
 
