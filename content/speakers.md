@@ -19,6 +19,18 @@ ShowPostNavLinks: true
 
 ---
 
+### Barbara Di Ventura
+<!-- adding the '#speaker' to the image URL adds some css over the assets/css/custom.css file -->
+![Barbara Di Ventura](images/diventura.jpg#speaker)
+*Universität Freiburg* &nbsp; [[Homepage]](https://www.bioss.uni-freiburg.de/de/prof-dr-barbara-di-ventura/)
+
+Barbara is a Professor at the Centre for Biological Signalling Studies at the University of Freiburg. She is interested in engineering synthetic biological systems using optogenetics tools.
+
+---
+
+
+---
+
 ### Darjan Hil
 <!-- adding the '#speaker' to the image URL adds some css over the assets/css/custom.css file -->
 ![Darjan Hil](images/darjan.jpg#speaker)
@@ -31,12 +43,12 @@ Darjan is the founder and CEO of the design and data visualization agency Superd
 
 ---
 
-### Holger Breithaupt
+### Frédéric Schütz
 <!-- adding the '#speaker' to the image URL adds some css over the assets/css/custom.css file -->
-![Holger Breithaupt](images/holger.jpg#speaker)
-*EMBO press* &nbsp; [[Homepage]](https://www.embopress.org/editors)
+![Frédéric Schütz](images/frederic.jpg#speaker)
+*Swiss Institute of Bioinformatics (SIB)* &nbsp; [[Homepage]](https://www.sib.swiss/frederic-schuetz-group)
 
-Holger is a senior editor at EMBO reports where he works on the Science & Society content for the journal.
+Frédéric leads the Bioinformatics platform of the Faculty of Biology and Medicine at the University of Lausanne. The platform offers help with questions related to biostatistics and analysis of various types of biological data.
 
 ---
 
@@ -55,27 +67,14 @@ Gioele works with single cell data since the early days. In his lab, he is apply
 
 ---
 
-### Barbara Di Ventura
+### Holger Breithaupt
 <!-- adding the '#speaker' to the image URL adds some css over the assets/css/custom.css file -->
-![Barbara Di Ventura](images/diventura.jpg#speaker)
-*Universität Freiburg* &nbsp; [[Homepage]](https://www.bioss.uni-freiburg.de/de/prof-dr-barbara-di-ventura/)
+![Holger Breithaupt](images/holger.jpg#speaker)
+*EMBO press* &nbsp; [[Homepage]](https://www.embopress.org/editors)
 
-Barbara is a Professor at the Centre for Biological Signalling Studies at the University of Freiburg. She is interested in engineering synthetic biological systems using optogenetics tools.
-
----
-
+Holger is a senior editor at EMBO reports where he works on the Science & Society content for the journal.
 
 ---
-
-### Frédéric Schütz
-<!-- adding the '#speaker' to the image URL adds some css over the assets/css/custom.css file -->
-![Frédéric Schütz](images/frederic.jpg#speaker)
-*Swiss Institute of Bioinformatics (SIB)* &nbsp; [[Homepage]](https://www.sib.swiss/frederic-schuetz-group)
-
-Frédéric leads the Bioinformatics platform of the Faculty of Biology and Medicine at the University of Lausanne. The platform offers help with questions related to biostatistics and analysis of various types of biological data.
-
----
-
 
 
 ---
