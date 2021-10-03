@@ -48,7 +48,7 @@ Darjan is the founder and CEO of the design and data visualization agency Superd
 ![Frédéric Schütz](images/frederic.jpg#speaker)
 *Swiss Institute of Bioinformatics (SIB)* &nbsp; [[Homepage]](https://www.sib.swiss/frederic-schuetz-group)
 
-Frédéric leads the Bioinformatics platform of the Faculty of Biology and Medicine at the University of Lausanne. The platform offers help with questions related to biostatistics and analysis of various types of biological data.
+Frédéric leads the Statistics platform of the Faculty of Biology and Medicine at the University of Lausanne. The platform offers help with questions related to biostatistics and analysis of various types of biological data.
 
 ---
 
