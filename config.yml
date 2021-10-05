@@ -20,6 +20,8 @@ params:
               url: "/speakers"
             - name: WiFi
               url: "/wifi"
+            - name: Contact
+              url: "/contact"
 
     # socialIcons: # optional
     #     - name: twitter
