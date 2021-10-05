@@ -22,6 +22,8 @@ params:
               url: "/wifi"
             - name: Contact
               url: "/contact"
+            - name: Playlist
+              url: "https://outloud.dj/mwy4b/welcome"
 
     # socialIcons: # optional
     #     - name: twitter
