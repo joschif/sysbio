@@ -18,6 +18,8 @@ params:
               url: "/program"  # relative to the contents/ folder
             - name: Speakers
               url: "/speakers"
+            - name: WiFi
+              url: "/wifi"
 
     # socialIcons: # optional
     #     - name: twitter
