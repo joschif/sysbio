@@ -19,11 +19,11 @@ ShowPostNavLinks: true
 
 ## Hotel 
 
-Name: Alfa Soleil
+Name: Alfa Soleil  
 Password: 0000003718
 
 ## Gemeindesaal
 
-Name: Gemeindesaal
+Name: Gemeindesaal  
 Password: Kandersteg3718!
 
