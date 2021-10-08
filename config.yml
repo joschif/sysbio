@@ -24,6 +24,8 @@ params:
               url: "/contact"
             - name: Playlist
               url: "https://outloud.dj/mwy4b/welcome"
+            - name: Feedback
+              url: "https://forms.gle/aFJiWSpBJELPt1sF6"
 
     # socialIcons: # optional
     #     - name: twitter
